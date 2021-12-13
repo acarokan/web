@@ -1,0 +1,35 @@
+.container{
+  width: 95vw;
+  height: 95vh;
+  margin: auto;
+  padding: 10px;
+}
+.container-in{
+  width: 100%;
+  height: 100%;
+}
+
+.index-table{
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+td{
+  width: 50%;
+  height: 100%;
+}
+#img-td{
+  background-image: url("img/virus-4.png");
+  background-size: contain;
+  background-repeat: round;
+}
+.content-div{
+  padding: 30px;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+h1{
+  font-size: 17px;
+  border-bottom: solid 1px #000000;
+  display: inline;
+  padding-bottom: 10px;
+}
